@@ -1,0 +1,1 @@
+import{u as o}from"./DxWSpvgy.js";import{c as e,a as s,o as a}from"./B9tWGlrJ.js";const n={class:"layout-box noverflow"},_={__name:"contact",setup(r){return o({title:"CPI Business | Contact Us"}),(c,t)=>(a(),e("div",n,t[0]||(t[0]=[s("h1",null,"Contact Us",-1)])))}};export{_ as default};

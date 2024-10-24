@@ -1,0 +1,1 @@
+import{u as s}from"./DxWSpvgy.js";import{c as r,a as o,o as a}from"./B9tWGlrJ.js";const t={class:"layout-box noverflow"},_={__name:"careers",setup(n){return s({title:"CPI Business | Careers"}),(l,e)=>(a(),r("div",t,e[0]||(e[0]=[o("h1",null,"Careers",-1)])))}};export{_ as default};
